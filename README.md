@@ -10,7 +10,8 @@ Here I have uploaded my Power BI sales insights project. Feel free to download a
 
 ![image](https://user-images.githubusercontent.com/48627152/229712506-1de82698-79ce-4fbd-9f88-ceae5d0a5f8a.png)
 
-#PowerBi Ui Interface: Specific City and Year
+
+# PowerBi Ui Interface: Specific City and Year
 
 ![image](https://user-images.githubusercontent.com/48627152/229712984-06cf48f5-e973-4d2b-bb15-c625ceefd4e0.png)
 
